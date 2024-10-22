@@ -1,0 +1,52 @@
+#
+# Generated backup file, do not edit.
+#
+# Originally at: /hd0a/TEMP/backup.089649
+# 2024-10-17  13:34:06
+#
+>>SYSTEM_ID:
+660-800471
+
+>>PRODUCTS_ID:
+RobotWare Version: 6.15.06.00
+FlexPendantSxTPU4Software Version: 1.6.0 
+
+  Spanish
+  Auto acknowledge input
+  613-1 Collision Detection
+  840-1 EtherNet/IP Anybus Adapter
+  976-1 T10 Jogging Device
+  Tool Change Support
+  608-1 World Zones
+  RobotWare Base
+  Axis Calibration
+  Pendelum Calibration
+  Motor Commutation
+  Service Info System
+  Drive System IRB 460/640/660/760/4600/66xx/6700
+  IRB 660-250/3.15
+  FlexPendant SxTPU4 Software
+
+>>HOME:
+All public files and directories
+
+>>SYSPAR:
+SYS.cfg
+PROC.cfg
+MMC.cfg
+EIO.cfg
+SIO.cfg
+MOC.cfg
+
+
+>>TASK1: (T_ROB1,NewProgramName,)
+SYSMOD/user.sys @ 
+SYSMOD/TCBASE.sys @ 
+SYSMOD/TCDEFINE.sys @ 
+PROGMOD/MainModule.mod @ 
+SYSMOD/TCUSER.sys @ 
+SYSMOD/TCSERVICE.sys @ 
+SYSMOD/TCDEVICE.sys @ 
+
+
+>>EOF:
